@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## 잉게더 CSS를 찾아주신 여러분 반갑습니다.
 
-You can use the [editor on GitHub](https://github.com/Ingether/ingether.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이 페이지에서는 [잉게더](https://tgd.kr/nanajam777)를 꾸미는데 사용된 CSS에 대한 정보를 열람가능합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+잉게더관리자는 우정잉님과 함께 일하는 사람이 아니며, 평범한 시청자일뿐입니다. 이와 관련한 모든 일들은 금전적 이득을 취하기 위한 영리목적의 행위가 아니며 단지 오래토록 방송해주십사하는 마음에서 시청자들이 자발적으로 움직인 결과물입니다.
 
-### Markdown
+### 김우정에게 바라는 것
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+너무 큰 것을 바라는 것 같기도 하지만, 당당하게 요구합니다.
+오래오래 행복하게 즐거운 방송생활 해 주세요. 보는 것만으로 충분합니다.
 
 ```markdown
-Syntax highlighted code block
+이 사이트는 수정 중에 있습니다.
 
-# Header 1
-## Header 2
-### Header 3
+# 아아
+## 방송
+### 안키냐
 
-- Bulleted
-- List
+- 지금이
+- 몇신데
 
-1. Numbered
-2. List
+1. 한시넘었다
+2. 초나 지났다
 
-**Bold** and _Italic_ and `Code` text
+**으으으!** 우정잉 _방송켜라_ 셔터언제 `올리냐` 그때 올란다
 
-[Link](url) and ![Image](src)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ingether/ingether.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+당분간은 연락처를 업데이트하지 않습니다.
+대가 없이 하는 일입니다. 방송 보는 것만으로 행복 하잖아요?
